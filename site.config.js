@@ -11,16 +11,16 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/dylan-kwon/morethan-log",
-    },
+    // {
+    //  name: `morethan-log`,
+    //  href: "https://github.com/dylan-kwon/morethan-log",
+    // },
   ],
   // blog setting (required)
   blog: {
     title: "권석찬 기술 블로그",
     description: "welcome to morethan-log!",
-    scheme: "light", // 'light' | 'dark' | 'system'
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
