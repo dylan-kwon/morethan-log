@@ -30,13 +30,13 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "권석찬 기술 블로그",
-    description: "welcome to morethan-log!",
+    title: "Dylan Dev",
+    description: "Welcome to my blog",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
-  link: "https://dylan-kwon.blog.vercel.app/",
+  link: "https://dylan-kwon.vercel.app/",
   since: "", // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
