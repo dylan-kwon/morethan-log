@@ -11,10 +11,22 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    // {
-    //  name: `morethan-log`,
-    //  href: "https://github.com/dylan-kwon/morethan-log",
-    // },
+    {
+      name: `android-toast-helper`,
+      href: "https://github.com/dylan-kwon/android-toast-helper",
+    },
+    {
+      name: `android-paging-modifier`,
+      href: "https://github.com/dylan-kwon/android-paging-modifier",
+    },
+    {
+      name: `android-version-migrator`,
+      href: "https://github.com/dylan-kwon/android-version-migrator",
+    },
+    {
+      name: `android-shape-view`,
+      href: "https://github.com/dylan-kwon/android-shape-view",
+    },
   ],
   // blog setting (required)
   blog: {
