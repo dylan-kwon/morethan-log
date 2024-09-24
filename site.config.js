@@ -10,24 +10,24 @@ const CONFIG = {
     github: "dylan-kwon",
     instagram: "",
   },
-//  projects: [
-//    {
-//      name: `android-toast-helper`,
-//      href: "https://github.com/dylan-kwon/android-toast-helper",
-//    },
-//    {
-//      name: `android-paging-modifier`,
-//      href: "https://github.com/dylan-kwon/android-paging-modifier",
-//    },
-//    {
-//      name: `android-version-migrator`,
-//      href: "https://github.com/dylan-kwon/android-version-migrator",
-//    },
-//    {
-//      name: `android-shape-view`,
-//      href: "https://github.com/dylan-kwon/android-shape-view",
-//    },
-//  ],
+  projects: [
+    {
+      name: `android-toast-helper`,
+      href: "https://github.com/dylan-kwon/android-toast-helper",
+    },
+    {
+      name: `android-paging-modifier`,
+      href: "https://github.com/dylan-kwon/android-paging-modifier",
+    },
+    {
+      name: `android-version-migrator`,
+      href: "https://github.com/dylan-kwon/android-version-migrator",
+    },
+    {
+      name: `android-shape-view`,
+      href: "https://github.com/dylan-kwon/android-shape-view",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "Dylan Dev",
