@@ -86,9 +86,9 @@ const Code = dynamic(() =>
       // @ts-expect-error ignore no prisma types
       import('prismjs/components/prism-wasm.js'),
       // @ts-expect-error ignore no prisma types
-      import('prismjs/components/prism-yaml.js')
+      import('prismjs/components/prism-yaml.js'),
       // @ts-expect-error ignore no prisma types
-      import('prismjs/components/prism-kotlin.js')
+      import('prismjs/components/prism-kotlin.js'),
       // @ts-expect-error ignore no prisma types
       import('prismjs/components/prism-dart.js')
     ])
